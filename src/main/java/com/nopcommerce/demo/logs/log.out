@@ -1,0 +1,91 @@
+2024-06-25 23:06:117 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:138 INFO  ComputerPage :25 - Get computers text[[ChromeDriver: chrome on windows (cd19c33decbfc6d23b30097e8d3a33f0)] -> link text: Computers]
+2024-06-25 23:06:473 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:384 INFO  ComputerPage :30 - Click on desktop[[ChromeDriver: chrome on windows (e4ae064b64285ccdce1ab993be70e0c2)] -> xpath: //a[text()=' Desktops ']]
+2024-06-25 23:06:818 INFO  DesktopsPage :22 - Get desktop text[[ChromeDriver: chrome on windows (e4ae064b64285ccdce1ab993be70e0c2)] -> link text: Desktops]
+2024-06-25 23:06:982 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:499 INFO  ComputerPage :30 - Click on desktop[[ChromeDriver: chrome on windows (a86429aaca1909182b3886ee08b25309)] -> xpath: //a[text()=' Desktops ']]
+2024-06-25 23:06:615 INFO  DesktopsPage :28 - Clicking on build your own computer link : [[ChromeDriver: chrome on windows (a86429aaca1909182b3886ee08b25309)] -> link text: Build your own computer]
+2024-06-25 23:06:703 INFO  BuildYourOwnComputerPage :43 - Select Processor[[ChromeDriver: chrome on windows (a86429aaca1909182b3886ee08b25309)] -> id: product_attribute_1]
+2024-06-25 23:06:771 INFO  BuildYourOwnComputerPage :49 - Select ram[[ChromeDriver: chrome on windows (a86429aaca1909182b3886ee08b25309)] -> id: product_attribute_2]
+2024-06-25 23:06:774 INFO  BuildYourOwnComputerPage :65 - Select HDD
+2024-06-25 23:06:811 INFO  BuildYourOwnComputerPage :70 - Select OS
+2024-06-25 23:06:851 INFO  BuildYourOwnComputerPage :75 - Select Software
+2024-06-25 23:06:924 INFO  BuildYourOwnComputerPage :54 - Clicking on add to cart button : [[ChromeDriver: chrome on windows (a86429aaca1909182b3886ee08b25309)] -> id: add-to-cart-button-1]
+2024-06-25 23:06:189 INFO  BuildYourOwnComputerPage :59 - Get add to cart text[[ChromeDriver: chrome on windows (a86429aaca1909182b3886ee08b25309)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2024-06-25 23:06:392 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:857 INFO  ComputerPage :30 - Click on desktop[[ChromeDriver: chrome on windows (89bd9b2f374e2516c8cd68417943b46f)] -> xpath: //a[text()=' Desktops ']]
+2024-06-25 23:06:796 INFO  DesktopsPage :28 - Clicking on build your own computer link : [[ChromeDriver: chrome on windows (89bd9b2f374e2516c8cd68417943b46f)] -> link text: Build your own computer]
+2024-06-25 23:06:854 INFO  BuildYourOwnComputerPage :43 - Select Processor[[ChromeDriver: chrome on windows (89bd9b2f374e2516c8cd68417943b46f)] -> id: product_attribute_1]
+2024-06-25 23:06:922 INFO  BuildYourOwnComputerPage :49 - Select ram[[ChromeDriver: chrome on windows (89bd9b2f374e2516c8cd68417943b46f)] -> id: product_attribute_2]
+2024-06-25 23:06:924 INFO  BuildYourOwnComputerPage :65 - Select HDD
+2024-06-25 23:06:963 INFO  BuildYourOwnComputerPage :70 - Select OS
+2024-06-25 23:06:996 INFO  BuildYourOwnComputerPage :75 - Select Software
+2024-06-25 23:06:68 INFO  BuildYourOwnComputerPage :54 - Clicking on add to cart button : [[ChromeDriver: chrome on windows (89bd9b2f374e2516c8cd68417943b46f)] -> id: add-to-cart-button-1]
+2024-06-25 23:06:406 INFO  BuildYourOwnComputerPage :59 - Get add to cart text[[ChromeDriver: chrome on windows (89bd9b2f374e2516c8cd68417943b46f)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2024-06-25 23:06:637 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:241 INFO  ComputerPage :30 - Click on desktop[[ChromeDriver: chrome on windows (c8b4df28a7798e810d8e62f39dfeda09)] -> xpath: //a[text()=' Desktops ']]
+2024-06-25 23:06:416 INFO  DesktopsPage :28 - Clicking on build your own computer link : [[ChromeDriver: chrome on windows (c8b4df28a7798e810d8e62f39dfeda09)] -> link text: Build your own computer]
+2024-06-25 23:06:494 INFO  BuildYourOwnComputerPage :43 - Select Processor[[ChromeDriver: chrome on windows (c8b4df28a7798e810d8e62f39dfeda09)] -> id: product_attribute_1]
+2024-06-25 23:06:565 INFO  BuildYourOwnComputerPage :49 - Select ram[[ChromeDriver: chrome on windows (c8b4df28a7798e810d8e62f39dfeda09)] -> id: product_attribute_2]
+2024-06-25 23:06:567 INFO  BuildYourOwnComputerPage :65 - Select HDD
+2024-06-25 23:06:606 INFO  BuildYourOwnComputerPage :70 - Select OS
+2024-06-25 23:06:642 INFO  BuildYourOwnComputerPage :75 - Select Software
+2024-06-25 23:06:710 INFO  BuildYourOwnComputerPage :54 - Clicking on add to cart button : [[ChromeDriver: chrome on windows (c8b4df28a7798e810d8e62f39dfeda09)] -> id: add-to-cart-button-1]
+2024-06-25 23:06:89 INFO  BuildYourOwnComputerPage :59 - Get add to cart text[[ChromeDriver: chrome on windows (c8b4df28a7798e810d8e62f39dfeda09)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2024-06-25 23:06:301 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:107 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (1ffd2ec11db8a4d72eb67d9c62884f45)] -> link text: Log in]
+2024-06-25 23:06:137 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (1ffd2ec11db8a4d72eb67d9c62884f45)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-25 23:06:423 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:387 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (356b17264d224f265b9e0e634c21e3d7)] -> link text: Log in]
+2024-06-25 23:06:458 INFO  LoginPage :50 - Enter EmailField : [[ChromeDriver: chrome on windows (356b17264d224f265b9e0e634c21e3d7)] -> id: Email]
+2024-06-25 23:06:516 INFO  LoginPage :55 - Enter PassWordField : [[ChromeDriver: chrome on windows (356b17264d224f265b9e0e634c21e3d7)] -> name: Password]
+2024-06-25 23:06:842 INFO  LoginPage :60 - Clicking on login link : [[ChromeDriver: chrome on windows (356b17264d224f265b9e0e634c21e3d7)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-25 23:06:865 INFO  LoginPage :64 - Getting error message from : [[ChromeDriver: chrome on windows (356b17264d224f265b9e0e634c21e3d7)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-25 23:06:55 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:832 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (e5cd52ed54d9907df49dfd73edd9f730)] -> link text: Log in]
+2024-06-25 23:06:907 INFO  LoginPage :50 - Enter EmailField : [[ChromeDriver: chrome on windows (e5cd52ed54d9907df49dfd73edd9f730)] -> id: Email]
+2024-06-25 23:06:961 INFO  LoginPage :55 - Enter PassWordField : [[ChromeDriver: chrome on windows (e5cd52ed54d9907df49dfd73edd9f730)] -> name: Password]
+2024-06-25 23:06:257 INFO  LoginPage :60 - Clicking on login link : [[ChromeDriver: chrome on windows (e5cd52ed54d9907df49dfd73edd9f730)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-25 23:06:281 INFO  LoginPage :64 - Getting error message from : [[ChromeDriver: chrome on windows (e5cd52ed54d9907df49dfd73edd9f730)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-25 23:06:462 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:331 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (1d9801e1d0ad2cd62710562b662b3930)] -> link text: Log in]
+2024-06-25 23:06:419 INFO  LoginPage :50 - Enter EmailField : [[ChromeDriver: chrome on windows (1d9801e1d0ad2cd62710562b662b3930)] -> id: Email]
+2024-06-25 23:06:485 INFO  LoginPage :55 - Enter PassWordField : [[ChromeDriver: chrome on windows (1d9801e1d0ad2cd62710562b662b3930)] -> name: Password]
+2024-06-25 23:06:779 INFO  LoginPage :60 - Clicking on login link : [[ChromeDriver: chrome on windows (1d9801e1d0ad2cd62710562b662b3930)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-25 23:06:802 INFO  LoginPage :64 - Getting error message from : [[ChromeDriver: chrome on windows (1d9801e1d0ad2cd62710562b662b3930)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-25 23:06:976 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:831 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (6da17c1738c70749ae64a3cab95f6eb4)] -> link text: Log in]
+2024-06-25 23:06:904 INFO  LoginPage :50 - Enter EmailField : [[ChromeDriver: chrome on windows (6da17c1738c70749ae64a3cab95f6eb4)] -> id: Email]
+2024-06-25 23:06:960 INFO  LoginPage :55 - Enter PassWordField : [[ChromeDriver: chrome on windows (6da17c1738c70749ae64a3cab95f6eb4)] -> name: Password]
+2024-06-25 23:06:271 INFO  LoginPage :60 - Clicking on login link : [[ChromeDriver: chrome on windows (6da17c1738c70749ae64a3cab95f6eb4)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-25 23:06:366 INFO  LoginPage :70 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Log out']'
+2024-06-25 23:06:811 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:599 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (65956c62699f96b283589b312896bede)] -> link text: Log in]
+2024-06-25 23:06:676 INFO  LoginPage :50 - Enter EmailField : [[ChromeDriver: chrome on windows (65956c62699f96b283589b312896bede)] -> id: Email]
+2024-06-25 23:06:731 INFO  LoginPage :55 - Enter PassWordField : [[ChromeDriver: chrome on windows (65956c62699f96b283589b312896bede)] -> name: Password]
+2024-06-25 23:06:12 INFO  LoginPage :60 - Clicking on login link : [[ChromeDriver: chrome on windows (65956c62699f96b283589b312896bede)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-25 23:06:383 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:459 INFO  HomePage :39 - Clicking on register link : [[ChromeDriver: chrome on windows (bcc70555df681f3f61c112c1ff5d55ec)] -> link text: Register]
+2024-06-25 23:06:476 INFO  RegisterPage :74 - Getting text from : [[ChromeDriver: chrome on windows (bcc70555df681f3f61c112c1ff5d55ec)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-25 23:06:655 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:121 INFO  HomePage :39 - Clicking on register link : [[ChromeDriver: chrome on windows (2bf6a6ab08ac75785931b109e7a2f457)] -> link text: Register]
+2024-06-25 23:06:190 INFO  RegisterPage :81 - Clicking on register button : [[ChromeDriver: chrome on windows (2bf6a6ab08ac75785931b109e7a2f457)] -> id: register-button]
+2024-06-25 23:06:205 INFO  RegisterPage :92 - Getting text from : [[ChromeDriver: chrome on windows (2bf6a6ab08ac75785931b109e7a2f457)] -> id: FirstName-error]
+2024-06-25 23:06:231 INFO  RegisterPage :97 - Getting text from : [[ChromeDriver: chrome on windows (2bf6a6ab08ac75785931b109e7a2f457)] -> id: LastName-error]
+2024-06-25 23:06:248 INFO  RegisterPage :103 - Getting text from : [[ChromeDriver: chrome on windows (2bf6a6ab08ac75785931b109e7a2f457)] -> id: Email-error]
+2024-06-25 23:06:263 INFO  RegisterPage :115 - Getting text from : [[ChromeDriver: chrome on windows (2bf6a6ab08ac75785931b109e7a2f457)] -> id: ConfirmPassword-error]
+2024-06-25 23:06:278 INFO  RegisterPage :115 - Getting text from : [[ChromeDriver: chrome on windows (2bf6a6ab08ac75785931b109e7a2f457)] -> id: ConfirmPassword-error]
+2024-06-25 23:06:459 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-25 23:06:883 INFO  HomePage :39 - Clicking on register link : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> link text: Register]
+2024-06-25 23:06:926 INFO  RegisterPage :122 - Clicking on gender tab : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> id: gender]
+2024-06-25 23:06:938 INFO  RegisterPage :127 - Enter FirstName : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> id: FirstName]
+2024-06-25 23:06:999 INFO  RegisterPage :133 - Enter LastName : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> id: LastName]
+2024-06-25 23:06:48 INFO  RegisterPage :138 - Select date[[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> name: DateOfBirthDay]
+2024-06-25 23:06:134 INFO  RegisterPage :143 - Select month[[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> name: DateOfBirthMonth]
+2024-06-25 23:06:207 INFO  RegisterPage :148 - Select year[[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> name: DateOfBirthYear]
+2024-06-25 23:06:324 INFO  RegisterPage :154 - Enter EmailField : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> id: Email]
+2024-06-25 23:06:379 INFO  RegisterPage :160 - Enter PassWordField : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> id: Password]
+2024-06-25 23:06:429 INFO  RegisterPage :165 - Enter ConfirmPassWordField : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> id: ConfirmPassword]
+2024-06-25 23:06:948 INFO  RegisterPage :81 - Clicking on register button : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> id: register-button]
+2024-06-25 23:06:970 INFO  RegisterPage :169 - Get registration Message : [[ChromeDriver: chrome on windows (caaf3e81a3807db88dfb1db43f44858d)] -> xpath: //div[text()='Your registration completed']]
